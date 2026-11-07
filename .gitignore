@@ -1,0 +1,8 @@
+*
+!*/
+!.gitignore
+!README.md
+!score/*.pdf
+!score/*.mscz
+!audio/*.flac
+!audio/*.mp3
