@@ -26,3 +26,5 @@ subagents.
 - `score/passacaglia-in-d.mscz`: the same score for MuseScore Studio 4
 - `audio/passacaglia-in-d.flac`: the recording, 5:53, 24-bit, 48 kHz
 - `audio/passacaglia-in-d.mp3`: the same recording, 320 kb/s
+
+[Watch on YouTube with the rolling score](https://www.youtube.com/watch?v=vIhGEAbBti8)
